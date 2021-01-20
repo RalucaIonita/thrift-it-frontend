@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "thrift-it-v2"
+    }
+  },
+  "defaultProject": "thrift-it-v2",
+  "cli": {
+    "analytics": false
+  }
 }

@@ -1,0 +1,12 @@
+{
+    "registerUrl": "api/account/register",
+    "loginUrl": "api/account/login",
+    "newCartUrl": "api/cart/new",
+    "myCartUrl": "api/cart/my-cart",
+    "modifyCartUrl": "api/cart/modify-cart",
+    "getAllProductsUrl": "api/products/all",
+    "getCertainProduct": "api/products",
+    "addPrductUrl": "api/products/sell",
+    "modifyProductUrl": "api/products/modify-product",
+    "deleteProductUrl": "api/products"
+}
